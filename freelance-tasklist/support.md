@@ -76,7 +76,7 @@ A: Yes, set a due date with a specific time, and you'll receive a notification w
 
 If you can't find the answer to your question, please reach out:
 
-- **Email**: diego@varela.dev
+- **Email**: d@diegoavarela.com
 - **GitHub Issues**: [Report a bug or request a feature](https://github.com/diegoavarela/legal/issues)
 
 When contacting support, please include:
@@ -90,7 +90,7 @@ When contacting support, please include:
 Have an idea to make Freelance Tasklist better? We'd love to hear it! Please submit feature requests via:
 
 - **GitHub Issues**: [github.com/diegoavarela/legal/issues](https://github.com/diegoavarela/legal/issues)
-- **Email**: diego@varela.dev
+- **Email**: d@diegoavarela.com
 
 ---
 
