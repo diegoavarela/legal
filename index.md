@@ -6,6 +6,13 @@ Privacy Policies and Terms of Service for Diego Varela's products.
 
 ## Apps
 
+### TunePulse
+
+The ultimate musician's toolkit with metronome, tuner, and beat machine.
+
+- [Privacy Policy](tunepulse/privacy)
+- [Support](tunepulse/support)
+
 ### InkMark
 
 A beautiful, native markup editor for macOS, iOS, and iPadOS.
