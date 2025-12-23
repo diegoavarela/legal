@@ -1,18 +1,18 @@
 ---
-title: MarkUp Editor - Privacy Policy
+title: InkMark - Privacy Policy
 ---
 
 # Privacy Policy
 
-**MarkUp Editor**
+**InkMark**
 
-**Last updated: December 21, 2024**
+**Last updated: December 23, 2025**
 
 ---
 
 ## Overview
 
-MarkUp Editor ("the App") is developed by Diego Varela. This Privacy Policy explains how we handle your information when you use our macOS application.
+InkMark ("the App") is developed by Diego Varela. This Privacy Policy explains how we handle your information when you use our application.
 
 **The short version: We don't collect, store, or share any of your personal data.**
 
@@ -32,8 +32,8 @@ MarkUp Editor ("the App") is developed by Diego Varela. This Privacy Policy expl
 
 All your documents and data remain exclusively on your device or in your personal iCloud account:
 
-- **Documents**: Stored locally in `~/Library/Application Support/MarkUpEditor/` or synced to your personal iCloud account
-- **Settings**: Stored locally using macOS UserDefaults
+- **Documents**: Stored locally in `~/Library/Application Support/InkMark/` or synced to your personal iCloud account
+- **Settings**: Stored locally using macOS/iOS UserDefaults
 - **Voice Recordings**: Processed on-device using Apple's Speech Recognition framework and immediately discarded after transcription
 
 ---
@@ -48,7 +48,6 @@ The App requests the following permissions, all processed locally:
 | **Speech Recognition** | Convert voice recordings to text using Apple's on-device speech recognition |
 | **Files Access** | Import and export documents you explicitly select |
 | **iCloud** | Optional sync between your devices using your personal iCloud account |
-| **Network** | Optional connection to your own PostgreSQL database (if configured) |
 
 ---
 
@@ -59,10 +58,6 @@ The App requests the following permissions, all processed locally:
 If you enable iCloud sync, your documents are stored in your personal iCloud account, subject to [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
 
 Speech recognition uses Apple's on-device processing when available. No audio data is sent to external servers.
-
-### Optional Database Connection
-
-The App includes an optional feature to connect to your own PostgreSQL database. If you use this feature, you are responsible for the security and privacy of your database. We do not operate any servers or databases.
 
 ---
 
@@ -82,7 +77,7 @@ We may update this Privacy Policy from time to time. Changes will be posted to t
 
 If you have questions about this Privacy Policy, please contact:
 
-- **Email**: diegoavarela@icloud.com
+- **Email**: varelad@gmail.com
 
 ---
 

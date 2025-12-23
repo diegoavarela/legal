@@ -6,15 +6,16 @@ Privacy Policies and Terms of Service for Diego Varela's products.
 
 ## Apps
 
-### MarkUp Editor
+### InkMark
 
-A beautiful, native macOS markdown editor.
+A beautiful, native markup editor for macOS, iOS, and iPadOS.
 
-- [Privacy Policy](markupeditor/privacy)
+- [Privacy Policy](inkmark/privacy)
+- [Support](inkmark/support)
 
 ---
 
 ## Contact
 
-- **Email**: diegoavarela@icloud.com
+- **Email**: varelad@gmail.com
 - **GitHub**: [github.com/diegoavarela](https://github.com/diegoavarela)

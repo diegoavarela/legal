@@ -1,6 +1,5 @@
 ---
-layout: default
-title: InkMark Support
+title: InkMark - Support
 ---
 
 # InkMark Support
@@ -72,3 +71,5 @@ Having trouble or have a suggestion? We'd love to hear from you.
 ---
 
 *InkMark - Write beautifully.*
+
+[Back to Legal Home](../)
