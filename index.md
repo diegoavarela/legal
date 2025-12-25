@@ -20,6 +20,13 @@ A beautiful, native markup editor for macOS, iOS, and iPadOS.
 - [Privacy Policy](inkmark/privacy)
 - [Support](inkmark/support)
 
+### HeartStrong
+
+Fitness and wellness app designed for heart transplant recipients.
+
+- [Privacy Policy](heartstrong/privacy)
+- [Support](heartstrong/support)
+
 ---
 
 ## Contact
