@@ -92,10 +92,22 @@ We use Supabase for optional cloud sync functionality. Supabase is SOC 2 Type II
 ## Your Rights
 
 You have the right to:
-- **Access**: Export all your data in JSON format via the app
-- **Delete**: Remove all local data by uninstalling the app
-- **Portability**: Export your workout history and profile information
+- **Access**: Export all your data in JSON format via the app (Profile > Privacy & Sharing > Export My Data)
+- **Delete**: Remove all your data using the in-app deletion feature (Profile > Privacy & Sharing > Delete All My Data)
+- **Portability**: Export your workout history and profile information in standard JSON format
 - **Opt-out**: Decline any optional permissions (location, photos, health)
+
+### Data Deletion
+
+To completely delete your data:
+
+1. **Local Data**: Go to Profile > Privacy & Sharing > Delete All My Data. This permanently removes all workouts, profile information, and preferences from your device.
+
+2. **Account Data**: If you have an account, deleting your data will also remove your authentication credentials from our systems.
+
+3. **HealthKit Data**: Data written to Apple Health must be deleted separately through the iOS Health app.
+
+4. **Alternative**: Uninstalling the app will remove all local data, but you should use the in-app deletion to ensure cloud account data is also removed.
 
 ## Children's Privacy
 
