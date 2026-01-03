@@ -1,14 +1,14 @@
-# Terms of Service for Ticker
+# Terms of Service for Zeph
 
 **Last Updated: January 3, 2026**
 
 ## 1. Acceptance of Terms
 
-By downloading, installing, or using Ticker (the "App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.
+By downloading, installing, or using Zeph (the "App"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, do not use the App.
 
 ## 2. Description of Service
 
-Ticker is a macOS application that provides real-time stock market data and information for educational and informational purposes only.
+Zeph is a macOS application that provides real-time stock market data and information for educational and informational purposes only.
 
 ### 2.1 Features
 - Real-time stock quotes from Yahoo Finance
@@ -136,4 +136,4 @@ BY USING THE APP, YOU ACKNOWLEDGE THAT YOU HAVE READ THESE TERMS OF SERVICE, UND
 
 ---
 
-**Ticker is an independent application and is not affiliated with or endorsed by Apple Inc., Yahoo Finance, Alpha Vantage, NASDAQ, NYSE, or any other financial institution or stock exchange.**
+**Zeph is an independent application and is not affiliated with or endorsed by Apple Inc., Yahoo Finance, Alpha Vantage, NASDAQ, NYSE, or any other financial institution or stock exchange.**

@@ -1,10 +1,10 @@
-# Privacy Policy for Ticker
+# Privacy Policy for Zeph
 
 **Last Updated: January 3, 2026**
 
 ## Introduction
 
-Ticker ("we," "our," or "the app") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our macOS application.
+Zeph ("we," "our," or "the app") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our macOS application.
 
 ## Information We Collect
 
@@ -13,12 +13,12 @@ Ticker ("we," "our," or "the app") is committed to protecting your privacy. This
 - **Stock Preferences**: Your favorite stocks and app settings are stored locally on your device.
 
 ### Automatically Collected Information
-- **No Analytics**: Ticker does not collect any analytics, telemetry, or usage data.
+- **No Analytics**: Zeph does not collect any analytics, telemetry, or usage data.
 - **No Personal Information**: We do not collect any personally identifiable information.
 
 ## Third-Party Data Sources
 
-Ticker retrieves stock market data from the following third-party services:
+Zeph retrieves stock market data from the following third-party services:
 
 ### Yahoo Finance
 - **Purpose**: Real-time and historical stock price data
@@ -52,7 +52,7 @@ You have the right to:
 
 ## Children's Privacy
 
-Ticker does not knowingly collect information from children under 13. The app is designed for general audiences interested in financial markets.
+Zeph does not knowingly collect information from children under 13. The app is designed for general audiences interested in financial markets.
 
 ## Changes to This Privacy Policy
 
@@ -60,7 +60,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 ## Financial Disclaimer
 
-**IMPORTANT**: Ticker provides stock market data for informational purposes only. This is not financial advice. We are not responsible for any financial decisions you make based on the data displayed in the app. Past performance does not guarantee future results.
+**IMPORTANT**: Zeph provides stock market data for informational purposes only. This is not financial advice. We are not responsible for any financial decisions you make based on the data displayed in the app. Past performance does not guarantee future results.
 
 ## Contact Us
 
