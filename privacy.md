@@ -1,12 +1,12 @@
 # Privacy Policy
 
-**US Citizenship Test Prep**
+**Civics 100 - US Citizenship Test Prep**
 
 *Last updated: January 18, 2025*
 
 ## Overview
 
-US Citizenship Test Prep ("the App") is designed to help users study for the United States Citizenship and Immigration Services (USCIS) naturalization test. We are committed to protecting your privacy.
+Civics 100 ("the App") is designed to help users study for the United States Citizenship and Immigration Services (USCIS) naturalization test. We are committed to protecting your privacy.
 
 ## Data Collection
 
@@ -52,5 +52,7 @@ If you have questions about this Privacy Policy, please contact us at:
 **Email:** privacy@diegovarela.com
 
 ---
+
+Civics 100 - US Citizenship Test Prep
 
 © 2025 Diego Varela. All rights reserved.

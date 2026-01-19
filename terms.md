@@ -1,16 +1,16 @@
 # Terms of Service
 
-**US Citizenship Test Prep**
+**Civics 100 - US Citizenship Test Prep**
 
 *Last updated: January 18, 2025*
 
 ## Acceptance of Terms
 
-By downloading, installing, or using US Citizenship Test Prep ("the App"), you agree to be bound by these Terms of Service.
+By downloading, installing, or using Civics 100 ("the App"), you agree to be bound by these Terms of Service.
 
 ## Important Disclaimer
 
-**THIS APP IS FOR EDUCATIONAL PURPOSES ONLY.**
+**CIVICS 100 IS FOR EDUCATIONAL PURPOSES ONLY.**
 
 By using this App, you explicitly acknowledge and agree that:
 
@@ -62,5 +62,7 @@ For questions about these Terms, contact us at:
 **Email:** legal@diegovarela.com
 
 ---
+
+Civics 100 - US Citizenship Test Prep
 
 © 2025 Diego Varela. All rights reserved.
