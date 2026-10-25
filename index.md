@@ -6,6 +6,13 @@ Privacy Policies and Terms of Service for Diego Varela's products.
 
 ## Apps
 
+### Pendientes
+
+Lists, focus and sharing for iPhone and Mac, synced with your iCloud.
+
+- [Privacy Policy](pendientes/privacy)
+- [Support](pendientes/support)
+
 ### TunePulse
 
 The ultimate musician's toolkit with metronome, tuner, and beat machine.
