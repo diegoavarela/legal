@@ -6,6 +6,13 @@ Privacy Policies and Terms of Service for Diego Varela's products.
 
 ## Apps
 
+### Llavero
+
+Encrypted notes for iPhone and Mac, synced with your private iCloud.
+
+- [Privacy Policy](llavero/privacy)
+- [Support](llavero/support)
+
 ### Pendientes
 
 Lists, focus and sharing for iPhone and Mac, synced with your iCloud.
