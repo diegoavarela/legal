@@ -6,6 +6,13 @@ Privacy Policies and Terms of Service for Diego Varela's products.
 
 ## Apps
 
+### Margen Writer
+
+A Markdown writing app for Mac, iPhone and iPad that edits real .md files, synced with your iCloud Drive.
+
+- [Privacy Policy](margen/privacy)
+- [Support](margen/support)
+
 ### Llavero
 
 Encrypted notes for iPhone and Mac, synced with your private iCloud.
